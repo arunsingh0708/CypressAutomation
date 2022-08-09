@@ -1,0 +1,21 @@
+{
+  "defaultCommandTimeout": 8000,
+  "pageLoadTimeout": 30000,
+  "reporter": "cypress-mochawesome-reporter",
+  "reporterOptions": {
+    "charts": true,
+    "reportdir":"cypress/report",
+    "reportPageTitle": "Test Report",
+    "embeddedScreenshots": true,
+    "inlineAssets": true,
+    "saveAllAttempts": false
+  },
+  
+  "env":
+  {"url": "http://localhost:4200/"
+},
+  "retries": {
+    "runMode": 1
+  },
+  "video": false
+}

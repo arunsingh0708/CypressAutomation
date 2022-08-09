@@ -1,0 +1,8 @@
+{
+  "character":{"name":"Luke Skywalker","gender":"Gender: male","birthyear":"Birth year: 19BBY","skincolor":"Skin color: fair","eyecolor":"Eye color: blue"},
+  "planet":{"name":"Alderaan","population":"Population: 2000000000","climate":"Climate: temperate","gravity":"Gravity: 1 standard"},
+  "characterpartialname": "Darth",
+  "planetpartialname": "Al",
+  "invalidname": "txt"
+}
+
